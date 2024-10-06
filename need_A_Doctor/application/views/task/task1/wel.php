@@ -40,7 +40,7 @@
 </head>
 <body>
 	<div class="header">
-				<a href="<?php echo base_url(); ?>Task1/">HomePage</a>
+		<a href="<?php echo base_url(); ?>Task1/">HomePage</a>
 	</div>
 	<div class='content'>
 		<h1>Welcome to  <?php echo $user ;?></h1>
